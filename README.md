@@ -12,4 +12,6 @@ Run install.bat then once all the modules are installed run run.bat
 YOU NEED THE NODE.JS https://nodejs.org/en/download/
  
 boost (name) (legit)
+
+
 classic (name) (legit)
