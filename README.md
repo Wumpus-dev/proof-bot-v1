@@ -10,6 +10,6 @@ Put ur bot token in config.json
 Run install.bat then once all the modules are installed run run.bat
 
 YOU NEED THE NODE.JS https://nodejs.org/en/download/
-
-![Nitro Example](images/1.PNG)
-![Classic Example](images/2.PNG)
+ 
+boost (name) (legit)
+classic (name) (legit)
